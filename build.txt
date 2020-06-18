@@ -1,0 +1,5 @@
+displayName = Community Idea Pack
+author = Lyker
+version = 0.1
+includeSource = true
+homepage = https://github.com/AlmarM/tmod-Community-Idea-Pack
