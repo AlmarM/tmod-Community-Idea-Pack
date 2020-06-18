@@ -194,8 +194,8 @@ namespace CommunityPack.Config
             Items.Weapons.SporeTome.SporeDamage = SporeTomeSporeDamage;
             Items.Weapons.SporeTome.SporeKnockBack = SporeTomeSporeKnockBack;
             Projectiles.PoppingSeed.BuffDuration = PoppingSeedBuffDuration;
-            Items.Weapons.VineBallAmmo.Damage = VineBallDamage;
-            Items.Weapons.VineBallAmmo.KnockBack = VineBallKnockBack;
+            Items.Ammo.VineBallAmmo.Damage = VineBallDamage;
+            Items.Ammo.VineBallAmmo.KnockBack = VineBallKnockBack;
         }
     }
 

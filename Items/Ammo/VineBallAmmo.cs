@@ -10,7 +10,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
 
-namespace CommunityPack.Items.Weapons
+namespace CommunityPack.Items.Ammo
 {
     public class VineBallAmmo : ModItem
     {
